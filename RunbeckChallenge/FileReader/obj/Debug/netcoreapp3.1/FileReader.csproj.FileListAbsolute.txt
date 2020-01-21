@@ -1,0 +1,11 @@
+C:\Users\James\RiderProjects\RunbeckChallenge\FileReader\bin\Debug\netcoreapp3.1\FileReader.exe
+C:\Users\James\RiderProjects\RunbeckChallenge\FileReader\bin\Debug\netcoreapp3.1\FileReader.deps.json
+C:\Users\James\RiderProjects\RunbeckChallenge\FileReader\bin\Debug\netcoreapp3.1\FileReader.runtimeconfig.json
+C:\Users\James\RiderProjects\RunbeckChallenge\FileReader\bin\Debug\netcoreapp3.1\FileReader.runtimeconfig.dev.json
+C:\Users\James\RiderProjects\RunbeckChallenge\FileReader\bin\Debug\netcoreapp3.1\FileReader.dll
+C:\Users\James\RiderProjects\RunbeckChallenge\FileReader\bin\Debug\netcoreapp3.1\FileReader.pdb
+C:\Users\James\RiderProjects\RunbeckChallenge\FileReader\obj\Debug\netcoreapp3.1\FileReader.csprojAssemblyReference.cache
+C:\Users\James\RiderProjects\RunbeckChallenge\FileReader\obj\Debug\netcoreapp3.1\FileReader.AssemblyInfoInputs.cache
+C:\Users\James\RiderProjects\RunbeckChallenge\FileReader\obj\Debug\netcoreapp3.1\FileReader.AssemblyInfo.cs
+C:\Users\James\RiderProjects\RunbeckChallenge\FileReader\obj\Debug\netcoreapp3.1\FileReader.dll
+C:\Users\James\RiderProjects\RunbeckChallenge\FileReader\obj\Debug\netcoreapp3.1\FileReader.pdb
